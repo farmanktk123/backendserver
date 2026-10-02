@@ -1,0 +1,19 @@
+{
+  "name": "project-deployment",
+  "version": "1.0.0",
+  "description": "First Project deployment Here",
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Farman Nabi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1"
+  }
+}
